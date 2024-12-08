@@ -16,7 +16,7 @@ This project matches participants based on their language and medical specializa
 * December 7th, 2024
 
 # Instructions
-Preqrequisites: G++ compiler, C++17 or higher
+Preqrequisites: C++ IDE, C++17 or higher
 1. Clone the repository
 ```bash
 git clone https://github.com/jadethong/CIS-7-Final
