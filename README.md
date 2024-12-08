@@ -10,7 +10,7 @@ This project matches participants based on their language and medical specializa
 ## Authors
 * [Jade Thong](https://github.com/jadethong)
 * [Tridip Paul](https://github.com/leqends)
-* [Erick Mendoza](https://github.com/)
+* [Erick Mendoza](https://github.com/holysapienta)
 
 # Date published 
 * December 7th, 2024
